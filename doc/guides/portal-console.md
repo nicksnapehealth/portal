@@ -36,7 +36,7 @@ Will produce the following:
 
 ## Spec
 
-If you would like the generate data for the log viewer in another context, the
+If you would like to generate data for the log viewer in another context, the
 following specs will be useful:
 
 ```clojure
